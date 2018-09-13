@@ -1,0 +1,22 @@
+body { 			background: url(CreeTheDuckBackGroundImage.jpg); background-repeat: no-repeat; background-size: cover;
+				font-family:  Times New Roman, Times, serif, Arial, Verdana;
+				color: black;
+}
+		
+		.pageButton{
+			background-color: #FFFF00;
+			color: black;
+			width: 100px;
+			height: 25px;
+			border: 5px solid; border-top-color: #a6a6a6; border-left-color: #a6a6a6; border-right-color: black; border-bottom-color: black;
+			border-radius: 100px;
+			padding: 14px 25px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;}
+			
+		a:active {
+		color:#58FAF4; 
+		text-decoration: none;}
+			   
+		img {border: 2px solid;}
